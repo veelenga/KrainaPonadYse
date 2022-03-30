@@ -1,0 +1,17 @@
+# Setup
+title:               Країна Понад Усе
+tagline:             Благодійний Фонд
+url:                 https://veelenga.github.io
+description:         ''
+baseurl:             '/KrainaPonadYse'
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Vitalii Elenhaupt
+  url:               https://twitter.com/veelenga
+  email:             velenhaupt@gmail.com
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
