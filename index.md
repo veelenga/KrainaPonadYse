@@ -132,6 +132,23 @@ layout: page
   </div>
 </details>
 
+<details>
+  <summary>
+    <div class="pay-option-inline">
+      <div class="pay-icon"> 💰 </div>
+      <p class="pay-name">Paypal</p>
+    </div>
+  </summary>
+
+  <div class="pay-option">
+    <div class="pay-info">
+      <p class="pay-details">
+        oksi202120@gmail.com
+      </p>
+    </div>
+  </div>
+</details>
+
 ## Як це працює
 
 ⚡️ Ми збираємо кошти
