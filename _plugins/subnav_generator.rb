@@ -7,8 +7,6 @@ class MySubnavGenerator < Jekyll::Generator
     parser = Jekyll::Converters::Markdown.new(site.config)
 
     site.pages.each do |page|
-      next unless page.ext == '.md'
-
       doc = Nokogiri::HTML(parser.convert(page['content']))
       page.data['subnav'] = []
       doc.css('h2').each do |heading|
