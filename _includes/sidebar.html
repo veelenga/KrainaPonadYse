@@ -15,9 +15,25 @@
       <a class="sidebar-nav-lng" href="/">🇺🇦 Українська</en>
     {% endif %}
 
+    {% if page.url == '/' %}
+      <a class="sidebar-nav-item" href="/#про-нас">Про нас</a>
+      <a class="sidebar-nav-item" href="/#як-допомогти">Як допомогти</a>
+      <a class="sidebar-nav-item" href="/#як-це-працює">Як це працює</a>
+      <a class="sidebar-nav-item" href="/#для-дилерів">Для дилерів</a>
+      <a class="sidebar-nav-item" href="/#що-закупили">Що закупили</a>
+    {% else %}
+      <a class="sidebar-nav-item" href="/en/#about-us">About us</a>
+      <a class="sidebar-nav-item" href="/en/#how-can-you-help">How can you help</a>
+      <a class="sidebar-nav-item" href="/en/#how-does-it-work">How does it work</a>
+      <a class="sidebar-nav-item" href="/en/#for-car-dealers">For car dealers</a>
+      <a class="sidebar-nav-item" href="/en/#what-weve-bought-already">What we’ve bought already</a>
+    {% endif %}
+    <!--
+    custom generators are ignored on GitHub Pages
     {% for item in page.subnav %}
       <a class="sidebar-nav-item" href="{{ item.url }}">{{ item.title }}</a>
     {% endfor %}
+    -->
   </nav>
 
   <div class="sidebar-item">
