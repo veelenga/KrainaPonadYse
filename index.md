@@ -179,30 +179,4 @@ layout: page
 
 ## Що закупили
 
-<div class="cars-container">
-  <img src="{{ site.baseurl }}/public/cars/car1.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car2.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car3.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car4.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car5.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car6.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car7.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car8.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car9.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car10.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car11.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car12.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car13.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car14.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car15.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car16.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car17.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car18.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car19.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car20.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car21.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car22.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car23.jpeg" />
-  <img src="{{ site.baseurl }}/public/cars/car24.jpeg" />
-</div>
-
+{% include cars.html %}
