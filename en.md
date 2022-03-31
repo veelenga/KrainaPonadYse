@@ -4,7 +4,7 @@ layout: page
 
 ## About us
 
-«Kraina Ponad Yse» Charitable Foundation was established in 2014 to help IDPs from the ATO zone. We were able to help with temporary housing in Kharkiv with more than 5,000 residents of the Donetsk and Luhansk regions!
+«Kraina Ponad Yse» Charitable Organization was established in 2014 to help IDPs from the ATO zone. We were able to help with temporary housing in Kharkiv with more than 5,000 residents of the Donetsk and Luhansk regions!
 
 Now we are faced with a new task - to help our Armed Forces of Ukraine!
 
