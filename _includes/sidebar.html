@@ -9,10 +9,15 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="#про-нас">Про нас</a>
-    <a class="sidebar-nav-item" href="#як-допомогти">Як допомогти</a>
-    <a class="sidebar-nav-item" href="#як-це-працює">Як це працює</a>
-    <a class="sidebar-nav-item" href="#що-закупили">Що закупили</a>
+    {% if page.url == '/' %}
+      <a class="sidebar-nav-lng" href="/en">🇺🇸 English</en>
+    {% else %}
+      <a class="sidebar-nav-lng" href="/">🇺🇦 Українська</en>
+    {% endif %}
+
+    {% for item in page.subnav %}
+      <a class="sidebar-nav-item" href="{{ item.url }}">{{ item.title }}</a>
+    {% endfor %}
   </nav>
 
   <div class="sidebar-item">

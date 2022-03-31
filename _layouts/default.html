@@ -13,8 +13,13 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
+            {%if page.url == '/' %}
+              <a href="{{ site.baseurl }}/" title={{site.title}}>{{ site.title }}</a>
+              <small>{{ site.tagline }}</small>
+            {% else %}
+              <a href="{{ site.baseurl }}/en" title={{site.title_en}}>{{ site.title_en }}</a>
+              <small>{{ site.tagline_en }}</small>
+            {% endif %}
           </h3>
         </div>
       </div>

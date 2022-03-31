@@ -2,19 +2,19 @@
 layout: page
 ---
 
-## Про нас
+## About us
 
-Благодійний фонд "Країна Понад Усе" був створений у 2014 році для допомоги переселенцям у зоні АТО. Ми змогли допомогти понад 5000 мешканцям Донецької та Луганської областей з тимчасовим житлом у Харкові!
+«Kraina Ponad Yse» Charitable Organization was established in 2014 to help IDPs from the ATO zone. We were able to help with temporary housing in Kharkiv with more than 5,000 residents of the Donetsk and Luhansk regions!
 
-Зараз перед нами постало нове завдання - допомога нашим ЗСУ!
+Now we are faced with a new task - to help our Armed Forces of Ukraine!
 
-## Як допомогти
+## How can you help
 
 <details>
   <summary>
     <div class="pay-option-inline">
       <div class="pay-icon"> 💳 </div>
-      <p class="pay-name">Монобанк</p>
+      <p class="pay-name">Monobank</p>
     </div>
   </summary>
 
@@ -29,7 +29,7 @@ layout: page
   <summary>
     <div class="pay-option-inline">
       <div class="pay-icon"> 🏦 </div>
-      <p class="pay-name">Переказ із України (UAH)</p>
+      <p class="pay-name">Transfer from Ukraine (UAH)</p>
     </div>
   </summary>
 
@@ -37,9 +37,9 @@ layout: page
     <div class="pay-info">
       <p class="pay-details">
         <span>IBAN:</span> UA543220010000026205305881456 <br/>
-        <span>Отримувач:</span> Рожков Володимир Володимирович <br/>
-        <span>ІПН/ЄДРПОУ:</span> 2658010870 <br/>
-        <span>Призначення платежу:</span> Поповнення рахунку
+        <span>Recipient:</span> ROZHKOV VOLODYMYR <br/>
+        <span>EDRPOU:</span> 2658010870 <br/>
+        <span>Purpose of payment:</span> Account replenishment
       </p>
     </div>
   </div>
@@ -62,16 +62,16 @@ layout: page
         <span>Bank:</span> JSC UNIVERSAL BANK <br/>
         <span>City:</span> KYIV, UKRAINE <br/>
         <span>Swift code:</span> UNJSUAUKXXX<br/>
-        <span>Details of payment:</span> Дуже важливо правильно вказати призначення платежу. Виберіть потрібний варіант в залежності від того, хто відправляє платіж.
+        <span>Details of payment:</span> It is very important to specify the purpose of the payment correctly. Choose the option you want depending on who sends the payment.
 
         <br/> <br/>
-        1. Якщо відправник фізична особа:
+        1. Details of payment for individual transfers:
         <ul>
           <li> private transfer </li>
           <li> transfer to own account </li>
           <li> help to relative </li>
         </ul>
-        2. Якщо відправник юридична особа:
+        2. Details of payment for legal entity:
         <ul>
           <li>honorarium</li>
           <li>compensation for ... </li>
@@ -98,16 +98,16 @@ layout: page
         <span>Bank:</span> JSC UNIVERSAL BANK <br/>
         <span>City:</span> KYIV, UKRAINE <br/>
         <span>Swift code:</span> UNJSUAUKXXX <br/>
-        <span>Details of payment:</span> Дуже важливо правильно вказати призначення платежу. Виберіть потрібний варіант в залежності від того, хто відправляє платіж.
+        <span>Details of payment:</span> It is very important to specify the purpose of the payment correctly. Choose the option you want depending on who sends the payment.
 
         <br/> <br/>
-        1. Якщо відправник фізична особа:
+        1. Details of payment for individual transfers:
         <ul>
           <li> private transfer </li>
           <li> transfer to own account </li>
           <li> help to relative </li>
         </ul>
-        2. Якщо відправник юридична особа:
+        2. Details of payment for legal entity:
         <ul>
           <li>honorarium</li>
           <li>compensation for ... </li>
@@ -158,25 +158,25 @@ layout: page
   </div>
 </details>
 
-## Як це працює
+## How does it work
 
-⚡️ Ми збираємо кошти
+⚡️ We assemble money
 
-⚡️ Купуємо недорогі (1,5-4 тис. євро) дизельні позашляховики 4х4 за кордоном (переважно в Польщі, Словаччині)
+⚡️ We buy cheap (€1,5k-4k) 4x4 diesel SUV abroad (mostly in Poland, Slovakia)
 
-⚡️ Заправляємо провізією та ліками і їздимо до Харкова
+⚡️ Stuff it with provision and medicine and drive to Kharkiv
 
-⚡️ Машини виїжджають на передову до наших захисників. Мета – посилити нашу армію, їм потрібні саме зараз такі машини.
+⚡️ Finally the cars go to front line to our defenders. The goal is to strengthen our army, they need this type of cars  right now. As many as possible.
 
-Ми вже купили більше 19 автомобілів, половина з них прибула до Харкова з провізією. Але нам потрібно більше! Набагато більше!
-Будь ласка, поділіться з нами перемогою!
+We have already bought more than 19 cars, half of them reached Kharkiv with provision this week. But we need more! Much more!
+Please, share the victory with us!
 
-## Для дилерів
+## For car dealers
 
-Якщо у вас на складі є позашляховики, пікапи, квадроцикли, та ви готові надати фонду знижку на їх придбання – пишіть нам на пошту. **Важлива участь кожного!**
+If you have SUVs, pickups, ATVs in stock, and you are ready to give a discount on their purchase - contact us by mail. **All help matters!**
 
 <a href="mailto:oksi202120@gmail.com">oksi202120@gmail.com</a>
 
-## Що закупили
+## What we’ve bought already
 
 {% include cars.html %}
