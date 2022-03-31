@@ -9,8 +9,6 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -25,6 +23,7 @@
       {% endif %}
     {% endfor %}
 
+    <a class="sidebar-nav-item" href="#про-нас">Про нас</a>
     <a class="sidebar-nav-item" href="#як-допомогти">Як допомогти</a>
     <a class="sidebar-nav-item" href="#як-це-працює">Як це працює</a>
     <a class="sidebar-nav-item" href="#що-закупили">Що закупили</a>
@@ -32,7 +31,16 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; {{ site.time | date: '%Y' }} All rights reserved
+    </p>
+    <p>
+      Made by
+      <a href="https://twitter.com/veelenga" target="_blank" rel="noreferrer">
+        veelenga
+      </a> &
+      <a href="https://www.facebook.com/aleksandr.zainetdinov" target="_blank" rel="noreferrer">
+        zaynet
+      </a>
     </p>
   </div>
 </div>

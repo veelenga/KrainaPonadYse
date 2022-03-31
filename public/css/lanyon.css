@@ -42,6 +42,7 @@ body {
 
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  scroll-behavior: smooth;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -51,6 +52,17 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 
+h2 {
+  padding-top: 60px;
+  margin-top: -60px;
+}
+
+@media (min-width: 48em) {
+  h2 {
+    padding-top: 70px;
+    margin-top: -70px;
+  }
+}
 
 /*
  * Wrapper
@@ -93,9 +105,18 @@ h1, h2, h3, h4, h5, h6 {
  * Super small header above the content for site name and short description.
  */
 
+.wrap {
+  overflow: scroll;
+  height: 100vh;
+}
+
 .masthead {
+  top: 0;
+  position: sticky;
+  background: white;
   padding-top:    1rem;
-  padding-bottom: 0.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
 }
 .masthead-title {
   margin-top: 0;
