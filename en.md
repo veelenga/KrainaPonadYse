@@ -4,9 +4,9 @@ layout: page
 
 ## About us
 
-«Kraina Ponad Yce» Charitable Foundation was established in 2014 to help IDPs from the ATO zone. We were able to help with temporary housing in Kharkiv with more than 5,000 residents of the Donetsk and Luhansk regions!
+«Kraina Ponad Yse» Charitable Foundation was established in 2014 to help IDPs from the ATO zone. We were able to help with temporary housing in Kharkiv with more than 5,000 residents of the Donetsk and Luhansk regions!
 
-Now we are faced with a new task - to help our Armed Forces!
+Now we are faced with a new task - to help our Armed Forces of Ukraine!
 
 ## How can you help
 
@@ -14,7 +14,7 @@ Now we are faced with a new task - to help our Armed Forces!
   <summary>
     <div class="pay-option-inline">
       <div class="pay-icon"> 💳 </div>
-      <p class="pay-name">monobank</p>
+      <p class="pay-name">Monobank</p>
     </div>
   </summary>
 
@@ -62,7 +62,7 @@ Now we are faced with a new task - to help our Armed Forces!
         <span>Bank:</span> JSC UNIVERSAL BANK <br/>
         <span>City:</span> KYIV, UKRAINE <br/>
         <span>Swift code:</span> UNJSUAUKXXX<br/>
-        <span>Details of payment:</span> It is very important to specify the purpose of the payment correctly. Choose the option you want depending on who sent the payment.
+        <span>Details of payment:</span> It is very important to specify the purpose of the payment correctly. Choose the option you want depending on who sends the payment.
 
         <br/> <br/>
         1. Details of payment for individual transfers:
@@ -98,7 +98,7 @@ Now we are faced with a new task - to help our Armed Forces!
         <span>Bank:</span> JSC UNIVERSAL BANK <br/>
         <span>City:</span> KYIV, UKRAINE <br/>
         <span>Swift code:</span> UNJSUAUKXXX <br/>
-        <span>Details of payment:</span> It is very important to specify the purpose of the payment correctly. Choose the option you want depending on who sent the payment.
+        <span>Details of payment:</span> It is very important to specify the purpose of the payment correctly. Choose the option you want depending on who sends the payment.
 
         <br/> <br/>
         1. Details of payment for individual transfers:
@@ -168,12 +168,12 @@ Now we are faced with a new task - to help our Armed Forces!
 
 ⚡️ Finally the cars go to front line to our defenders. The goal is to strengthen our army, they need this type of cars  right now. As many as possible.
 
-We have already bought 19 cars, half of them reached Kharkiv with provision this week. But we need more! Much more!
+We have already bought more than 19 cars, half of them reached Kharkiv with provision this week. But we need more! Much more!
 Please, share the victory with us!
 
 ## For car dealers
 
-If you have SUVs, pickups, ATVs in stock, and you are ready to give the fund a discount on their purchase - write to us by mail. **Everyone's participation is important!**
+If you have SUVs, pickups, ATVs in stock, and you are ready to give a discount on their purchase - contact us by mail. **All help matters!**
 
 <a href="mailto:oksi202120@gmail.com">oksi202120@gmail.com</a>
 
