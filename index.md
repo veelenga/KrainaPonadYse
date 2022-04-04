@@ -18,11 +18,8 @@ layout: page
     </div>
   </summary>
 
-  <div class="pay-option">
-    <div class="pay-info">
-      <p class="pay-details">5375 4114 0406 7618</p>
-    </div>
-  </div>
+  {% include monobank.html %}
+
 </details>
 
 <details>
